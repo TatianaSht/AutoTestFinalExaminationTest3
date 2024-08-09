@@ -1,0 +1,9 @@
+
+815  [main] DEBUG BookingServiceTest - Start mock
+816  [main] DEBUG BookingServiceTest - Successful booking test started
+858  [main] INFO  BookingServiceTest - Reservation created
+864  [main] DEBUG BookingServiceTest - Stop mock
+884  [main] DEBUG BookingServiceTest - Start mock
+884  [main] DEBUG BookingServiceTest - Unsuccessful booking test started
+901  [main] INFO  BookingServiceTest - Reservation not created. Throw CantBookException
+901  [main] DEBUG BookingServiceTest - Stop mock
